@@ -6,7 +6,6 @@ void main() {
     int x;
     printf("Enter number you want to find factorial of: ");
     scanf("%d", &x);
-    //fac = facto(x);
     printf("%d! = %d", x, facto(x));
 }
 
